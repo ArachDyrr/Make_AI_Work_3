@@ -8,3 +8,4 @@ df = pd.DataFrame(data=d)
 
 
 print(df['col1'][0])
+
