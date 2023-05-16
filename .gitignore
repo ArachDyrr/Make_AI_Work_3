@@ -167,3 +167,8 @@ wandb/run-20230515_005732-g6brwy9e/files/wandb-summary.json
 
 # image folders
 practica/01. Beeldherkenning/Practicum/pics
+practica/.DS_Store
+practica/01. Beeldherkenning/.DS_Store
+.gitignore
+practica/01. Beeldherkenning/Practicum/image_procssing/.DS_Store
+.gitignore
