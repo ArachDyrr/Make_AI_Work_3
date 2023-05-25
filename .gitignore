@@ -179,3 +179,5 @@ practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/testsave.pt
 .gitignore
 practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/testsave1.pickle
 practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/testsave1.pt
+practica/01. Beeldherkenning/Practicum/glaswerk/batch.csv
+practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/test.ipynb
