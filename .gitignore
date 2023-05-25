@@ -174,3 +174,8 @@ practica/01. Beeldherkenning/Practicum/image_procssing/.DS_Store
 .gitignore
 practica/03. Probability/dobbelsteen?.py
 practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/test.py
+practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/testsave.pt
+.gitignore
+.gitignore
+practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/testsave1.pickle
+practica/01. Beeldherkenning/Practicum/image_procssing/pytorch/testsave1.pt
