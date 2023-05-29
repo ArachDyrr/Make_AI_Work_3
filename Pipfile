@@ -11,6 +11,8 @@ torchaudio = "*"
 wandb = "*"
 pandas = "*"
 requests = "*"
+matplotlib = "*"
+tqdm = "*"
 
 [dev-packages]
 ipykernel = "*"
